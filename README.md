@@ -1,9 +1,9 @@
 # Hello, I'm Jesper Vang 👋
 
-![Python](https://img.shields.io/badge/Python-Intermediate-yellow)
+![Python](https://img.shields.io/badge/Python-Advance-red)
 ![Scikit-learn](https://img.shields.io/badge/Scikitlearn-Intermediate-yellow)
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-Intermediate-yellow)
-![Bash](https://img.shields.io/badge/Bash-Expert-black)
+![Bash](https://img.shields.io/badge/Bash-Advance-red)
 ![HTML](https://img.shields.io/badge/HTML-Beginner-blue)
 ![CSS](https://img.shields.io/badge/Hugo-Beginner-blue)
 ![Illustrator](https://img.shields.io/badge/Illustrator-Expert-black)
