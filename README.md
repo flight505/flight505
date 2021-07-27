@@ -28,8 +28,8 @@ Ph.D at [Denmark´s main hospital Rigshospitalet](https://www.rigshospitalet.dk/
 ### 📝 Open Access Publications
 
 - [Systematic Review of Pharmacogenetic Factors That Influence High-Dose Methotrexate Pharmacokinetics in Pediatric Malignancies](https://www.mdpi.com/2072-6694/13/11/2837/htm)
-- [Metabolic engineering of Aspergillus niger via ribonucleoprotein-based CRISPR–Cas9 system for succinic acid production from renewable biomass][https://link.springer.com/article/10.1186/s13068-020-01850-5]
-- (A comparison of Agrobacterium-mediated transformation and protoplast-mediated transformation with CRISPR-Cas9 and bipartite gene targeting substrates, as effective gene targeting tools for Aspergillus carbonarius)[https://www.sciencedirect.com/science/article/pii/S0167701217300271]
+- [Metabolic engineering of Aspergillus niger via ribonucleoprotein-based CRISPR–Cas9 system for succinic acid production from renewable biomass](https://link.springer.com/article/10.1186/s13068-020-01850-5)
+- [A comparison of Agrobacterium-mediated transformation and protoplast-mediated transformation with CRISPR-Cas9 and bipartite gene targeting substrates, as effective gene targeting tools for Aspergillus carbonarius](https://www.sciencedirect.com/science/article/pii/S0167701217300271)
 
 ### 📚 Looking for my Resume? E-Mail me!
 
