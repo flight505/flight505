@@ -14,7 +14,7 @@ Ph.D at [Denmark´s main hospital Rigshospitalet](https://www.rigshospitalet.dk/
 - 🩺 Ph.D in **Bioinformatics** at Technical University Of Denmark
 - 🔭 Master's degree in **Biotechnology** at AALborg University
 - 🌱 I’m currently studying **Deep Learning** at DTU
-- ⚙️ Mastering: `.py`, `.html`,`.css`,`.js`,`.ts`
+- ⚙️ Favorite tool: `.py` 
 - 👯 I’m looking to collaborate on **Bioinformatics** and/or **Open source** projects
 - 💬 I'm mostly active within the **Cancer research** and **AI** communities
 
