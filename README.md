@@ -1,11 +1,13 @@
 # Hello, I'm Jesper Vang 👋
 
 ![Python](https://img.shields.io/badge/Python-Intermediate-yellow)
-![Bash](https://img.shields.io/badge/Bash-Intermediate-black)
-![HTML](https://img.shields.io/badge/HTML-Expert-orange)
-![CSS](https://img.shields.io/badge/CSS-Expert-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
-![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-lightgrey)
+![Scikit-learn](https://img.shields.io/badge/Scikitlearn-Intermediate-yellow)
+![Tensorflow](https://img.shields.io/badge/Tensorflow-Intermediate-yellow)
+![Bash](https://img.shields.io/badge/Bash-Expert-black)
+![HTML](https://img.shields.io/badge/HTML-Beginner-blue)
+![CSS](https://img.shields.io/badge/Hugo-Beginner-blue)
+![Illustrator](https://img.shields.io/badge/Illustrator-Expert-black)
+
 
 Ph.D at [Denmark´s main hospital Rigshospitalet](https://www.rigshospitalet.dk/afdelinger-og-klinikker/julianemarie/boerneungeafdelingen/bonkolab/om-bonkolab/Sider/om-laboratoriet.aspx) & [DTU](https://www.healthtech.dtu.dk/english/Research/Research-Sections/Section-Bioinformatics). Bioinformatics enthusiast with passion for cancer. Fascinated by everything that's CS related. Proudly from [Copenhagen, Denmark](https://goo.gl/maps/kbuRd1LV8nePn6Ys8) 🇩🇰
 
