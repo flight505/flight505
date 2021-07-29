@@ -21,7 +21,7 @@ Ph.D at [Denmark´s main hospital Rigshospitalet](https://www.rigshospitalet.dk/
 ### 📬 Get in Touch
 
 - GitHub: [github.com/flight505][github]
-- LinkedIn: [https://www.linkedin.com/in/jesper-v-26a778173/][LinkedIn]
+- LinkedIn: [https://www.linkedin.com/in/jesper-v-26a778173][linkedin]
 - Site: [www.jespervang.dk][site]
 - E-mail: jvan@dtu.dk
 
